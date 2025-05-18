@@ -1,0 +1,4 @@
+sigla,id_doc,id_lab,dia,hora_inicio,hora_fin
+INF101,1,1,Lunes,08:00,10:00
+MAT102,2,2,Martes,10:00,12:00
+BIO103,3,3,Miércoles,14:00,16:00
